@@ -1,5 +1,4 @@
 - 👋 Hi, you can call me razz
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning begginer level coding
-- ⚡ Fun fact: you can take your fish on walk!
-
+- Aspiring DevSecOps enigneer | CSE student | Building Something Meanigful 
+- Belives in learning via hands-on projects 👻👻
+- Likes to blog 👾
